@@ -1,0 +1,5 @@
+### INIT
+
+```sh   
+    git init
+```
